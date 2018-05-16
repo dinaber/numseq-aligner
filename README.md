@@ -1,4 +1,5 @@
 # numseq-aligner
+my_aligner.m
 Aligns multiple number sequences similarly to "multialign" in Matlab, but for numbers (and not NT or AA) 
 
  Input : matrix with numbers. Each row is treated as seperate number sequence. 
