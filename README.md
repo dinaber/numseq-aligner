@@ -1,4 +1,4 @@
-# numseq-aligner
+# numseq-aligner: align multiple sequences of numbers
 # my_aligner.m
 Aligns multiple number sequences similarly to "multialign" in Matlab, but for numbers (and not NT or AA) 
 
